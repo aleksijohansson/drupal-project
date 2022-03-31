@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "75d6ec8c3f5808387522eec6db9e4185",
+    "content-hash": "37e0d2e897b5320d9ca37cea98c47315",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -7102,16 +7102,16 @@
         },
         {
             "name": "wunderio/drupal-ping",
-            "version": "1.0.2",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wunderio/drupal-ping.git",
-                "reference": "1ba81d31a1527b19cbb115b01388c428e96136c9"
+                "reference": "2350c2afc0a5d644dadf151253dbe2442ae82c32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wunderio/drupal-ping/zipball/1ba81d31a1527b19cbb115b01388c428e96136c9",
-                "reference": "1ba81d31a1527b19cbb115b01388c428e96136c9",
+                "url": "https://api.github.com/repos/wunderio/drupal-ping/zipball/2350c2afc0a5d644dadf151253dbe2442ae82c32",
+                "reference": "2350c2afc0a5d644dadf151253dbe2442ae82c32",
                 "shasum": ""
             },
             "require": {
@@ -7129,6 +7129,12 @@
                     "email": "janne.koponen@wunder.io",
                     "homepage": "https://github.com/tharna",
                     "role": "Developer"
+                },
+                {
+                    "name": "Ragnar Kurm",
+                    "email": "ragnar.kurm@wunder.io",
+                    "homepage": "https://github.com/ragnarkurmwunder",
+                    "role": "Developer"
                 }
             ],
             "description": "Drupal health check endpoint for load balancers",
@@ -7140,9 +7146,9 @@
             ],
             "support": {
                 "issues": "https://github.com/wunderio/drupal-ping/issues",
-                "source": "https://github.com/wunderio/drupal-ping/tree/1.0.2"
+                "source": "https://github.com/wunderio/drupal-ping/tree/2.0.0"
             },
-            "time": "2020-09-11T10:38:01+00:00"
+            "time": "2022-03-30T12:28:14+00:00"
         }
     ],
     "packages-dev": [
